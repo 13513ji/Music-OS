@@ -19,5 +19,5 @@
 This is a completely static website.\
 You can clone this repository into your website folder and access the index.html file.\
 
-## Made by Jignesh
+## Made by Lantern
 
